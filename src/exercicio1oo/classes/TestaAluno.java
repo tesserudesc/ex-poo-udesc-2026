@@ -37,12 +37,9 @@ public class TestaAluno {
         System.out.println("nota1: " + fulano.nota1);
         System.out.println("nota2: " + fulano.nota2);
         System.out.println("nota3: " + fulano.nota3);
-        System.out.println("nota4 " + fulano.nota4);
+        System.out.println("nota4: " + fulano.nota4);
 
 
-        leitor.nextLine();
 
-        System.out.println("Dados do aluno");
-        System.out.println(fulano.nome);
     }
 }
