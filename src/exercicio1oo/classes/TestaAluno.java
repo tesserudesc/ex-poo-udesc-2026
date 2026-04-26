@@ -3,7 +3,7 @@ package exercicio1oo.classes;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class TestaAluno {
+class TestaAluno {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         Aluno fulano = new Aluno();
