@@ -1,8 +1,10 @@
-package exercicio1oo;
+package exercicio2oo.testes;
+
+import exercicio2oo.classes.ContaBancaria;
 
 import java.util.Scanner;
 
-class TestaContaBancaria {
+public class TestaContaBancaria {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         ContaBancaria cb = new ContaBancaria();

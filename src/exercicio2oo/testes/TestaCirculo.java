@@ -1,8 +1,10 @@
-package exercicio1oo;
+package exercicio2oo.testes;
+
+import exercicio2oo.classes.Circulo;
 
 import java.util.Scanner;
 
-class TestaCirculo {
+public class TestaCirculo {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         Circulo c = new Circulo();

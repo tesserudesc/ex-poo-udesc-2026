@@ -1,8 +1,10 @@
-package exercicio1oo;
+package exercicio2oo.testes;
+
+import exercicio2oo.classes.Retangulo;
 
 import java.util.Scanner;
 
-class TestaRetangulo {
+public class TestaRetangulo {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         Retangulo r = new Retangulo();

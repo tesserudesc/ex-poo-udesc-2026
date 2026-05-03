@@ -1,8 +1,8 @@
-package exercicio1oo;
-
+package exercicio2oo.testes;
+import exercicio2oo.classes.Livro;
 import java.util.Scanner;
 
-class TestaLivro {
+public class TestaLivro {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         Livro l = new Livro();

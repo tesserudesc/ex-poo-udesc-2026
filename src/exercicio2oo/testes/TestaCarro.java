@@ -1,8 +1,9 @@
-package exercicio1oo;
+package exercicio2oo.testes;
+import exercicio2oo.classes.Carro;
 
 import java.util.Scanner;
 
-class TestaCarro {
+public class TestaCarro {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         Carro car = new Carro();

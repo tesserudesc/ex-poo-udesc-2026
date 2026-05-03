@@ -1,9 +1,9 @@
-package exercicio1oo.classes;
+package exercicio2oo.testes;
+import exercicio2oo.classes.Aluno;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-class TestaAluno {
+public class TestaAluno {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         Aluno fulano = new Aluno();
